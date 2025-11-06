@@ -29,7 +29,7 @@ CPMAddPackage(
 enable_testing()
 
 # Ajoutez une source à l'exécutable de ce projet.
-add_executable (CMakeProject "src/CMakeProject.cpp" "CMakeProject.h")
+add_executable (CMakeProject "src/CMakeProject.cpp" "include/CMakeProject.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET CMakeProject PROPERTY CXX_STANDARD 20)
