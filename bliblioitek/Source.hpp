@@ -1,5 +1,5 @@
 #pragma once
-// singe
+// singes
 
 class Truc
 {
