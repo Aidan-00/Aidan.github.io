@@ -1,0 +1,16 @@
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/CMakeFiles/CMakeProject.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/bliblioitek/CMakeFiles/bliblioitek.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/bliblioitek/CMakeFiles/test.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/bliblioitek/CMakeFiles/edit_cache.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/bliblioitek/CMakeFiles/rebuild_cache.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/_deps/catch2-build/CMakeFiles/test.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/_deps/catch2-build/CMakeFiles/edit_cache.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/_deps/catch2-build/src/CMakeFiles/test.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir
