@@ -1,4 +1,4 @@
-﻿add_library(bliblioitek "../include/Source.cpp" PasSoure.cpp)
+﻿add_library(bliblioitek "../bliblioitek/Source.cpp" "PasSoure.cpp")
 
 target_include_directories(bliblioitek PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
