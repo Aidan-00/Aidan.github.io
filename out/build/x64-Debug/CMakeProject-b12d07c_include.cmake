@@ -1,5 +1,0 @@
-if(EXISTS "C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/CMakeProject-b12d07c_tests.cmake")
-  include("C:/Users/a.maronnat/source/repos/CMakeProject/out/build/x64-Debug/CMakeProject-b12d07c_tests.cmake")
-else()
-  add_test(CMakeProject_NOT_BUILT-b12d07c CMakeProject_NOT_BUILT-b12d07c)
-endif()
